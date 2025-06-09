@@ -48,7 +48,6 @@
 <br>
 </div>
 <hr>
-<p>Credit: <a href="https://github.com/sid446">Sidhant Singh</a>
 <br>Last Edited on: 09/06/2025</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer">
 </div>
